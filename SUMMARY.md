@@ -3,6 +3,7 @@
 * [The Scrum Guide](scrum-guide.md)
   * [Purpose of the Scrum Guide](scrum-guide.md#purpose-of-the-scrum-guide)
   * [Definition of Scrum](scrum-guide.md#definition-of-scrum)
+  * [Uses of Scrum](scrum-guide.md#uses-of-scrum)
   * [Scrum Theory](scrum-guide.md#scrum-theory)
     * [Transparency](scrum-guide.md#transparency)
     * [Inspection](scrum-guide.md#inspection)
